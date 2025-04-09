@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35919.96 d17.13
+VisualStudioVersion = 17.13.35919.96
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritmus", "Algoritmus\Algoritmus.csproj", "{A32F3EB2-6D35-4C8D-9FC9-7B67759CB72F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pfandautomat", "Pfandautomat\Pfandautomat.csproj", "{16470932-78BC-41F3-BE33-A4B0AFA16F0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoinator", "ToDoinator\ToDoinator.csproj", "{B0C56F32-9C5E-4EF0-8262-763DD67346D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{A32F3EB2-6D35-4C8D-9FC9-7B67759CB72F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A32F3EB2-6D35-4C8D-9FC9-7B67759CB72F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A32F3EB2-6D35-4C8D-9FC9-7B67759CB72F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16470932-78BC-41F3-BE33-A4B0AFA16F0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16470932-78BC-41F3-BE33-A4B0AFA16F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16470932-78BC-41F3-BE33-A4B0AFA16F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16470932-78BC-41F3-BE33-A4B0AFA16F0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0C56F32-9C5E-4EF0-8262-763DD67346D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0C56F32-9C5E-4EF0-8262-763DD67346D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0C56F32-9C5E-4EF0-8262-763DD67346D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0C56F32-9C5E-4EF0-8262-763DD67346D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
